@@ -1,0 +1,33 @@
+.container {
+    margin: auto;
+    width: 600px;
+}
+
+.card {
+    background-color: white;
+    border-radius: 20px;
+}
+
+.img {
+    background-color: grey;
+    height: 400px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.text {
+    padding: 1rem;
+}
+
+.title,
+.par {
+    margin-bottom: 1rem;
+}
+
+.btn {
+    background-color: orange;
+    border-radius: none;
+    padding: 0.5rem;
+    border: none;
+    color: white
+}
